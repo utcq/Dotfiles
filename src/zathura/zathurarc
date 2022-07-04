@@ -1,0 +1,4 @@
+include theme.color
+include catppuccin-mocha
+map <C-i> recolor
+set selection-clipboard clipboard

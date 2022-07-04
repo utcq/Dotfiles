@@ -1,0 +1,25 @@
+# Dunst Tokyo Night Theme
+[global]
+    icon_position = left
+    origin = top-right
+    font = "Iosevka" 8
+	highlight = "#9ece6a"
+
+[urgency_low]
+    background = "#1a1b26"
+    foreground = "#a9b1d6"
+    frame_color = "#9ece6a"
+    timeout = 5
+
+[urgency_normal]
+    background = "#1a1b26"
+    foreground = "#a9b1d6"
+    frame_color = "#7aa2f7"
+	highlight = "#7aa2f7"
+    timeout = 10
+
+[urgency_critical]
+    background = "#1a1b26"
+	foreground = "#f7768e"
+    frame_color = "#f7768e"
+    timeout = 0

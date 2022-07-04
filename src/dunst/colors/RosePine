@@ -1,0 +1,23 @@
+# Dunst One Dark Theme
+[global]
+    icon_position = left
+    origin = top-right
+    font = "Iosevka" 8
+
+[urgency_low]
+    background = "#191724"
+    foreground = "#e0def4"
+    frame_color = "#191724"
+    timeout = 5
+
+[urgency_normal]
+    background = "#191724"
+    foreground = "#e0def4"
+    frame_color = "#9ccfd8"
+    timeout = 10
+
+[urgency_critical]
+    background = "#191724"
+	foreground = "#E06C75"
+    frame_color = "#E06C75"
+    timeout = 0
